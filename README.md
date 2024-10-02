@@ -1,8 +1,8 @@
-#Message Generator Program - Life Span Calculator
+# Message Generator Program - Life Span Calculator
 
----Building a message generator program. Every time a user runs a program, they should get a new, randomized output.
+**Building a message generator program. Every time a user runs a program, they should get a new, randomized output.**
 
-##Project Objectives:
+## Project Objectives:
 
 1. Build a message generator program using JavaScript.
 2. Use Git version control
